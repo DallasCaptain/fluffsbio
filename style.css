@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(136, 136, 136);
+}
+
+#title{
+    text-align: center;
+    font-size: larger;
+    background-color: darkkhaki;
+    border:1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+img{
+    border-radius: 25%;
+    margin-top: 5px;
+    width: 200px;
+}
+
+
+.mid{
+    vertical-align: top;
+    display: inline-block;
+}
+
+#submit{
+    background-color: darkkhaki;
+    border-radius: 5px;
+}
